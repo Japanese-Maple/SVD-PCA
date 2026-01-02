@@ -1,6 +1,6 @@
-# PCA with Custom C-Optimized SVD
+# PCA, Custom C-Optimized SVD
 
-This project provides a high-performance implementation of **Principal Component Analysis (PCA)**. It bridges the gap between low-level efficiency and high-level data science by utilizing a custom-compiled C shared library for Eigendecomposition while maintaining the flexibility of Python (NumPy/PyTorch) for data manipulation.
+This project provides a high-performance implementation of **Single Value Decomposition (SVD)**, followed by the **PCA** itself. It bridges the gap between low-level efficiency and high-level data science by utilizing a custom-compiled C shared library for Eigendecomposition while maintaining the flexibility of Python (NumPy/PyTorch) for data manipulation.
 
 ---
 
