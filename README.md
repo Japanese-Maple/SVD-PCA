@@ -16,9 +16,10 @@ This project provides a high-performance implementation of **Single Value Decomp
 ## Project Structure
 
 - `qr.c`: The core C source file containing the Wilkinson Symmetric QR/QL algorithms.
-- `PCA_via_SVD.ipynb`: Demonstration of PCA on synthetic 2D datasets and high-dimensional variance visualization.
-- `svd.ipynb`: Practical application of SVD for image processing and reconstruction.
-- `utilities.py`: Helper functions for 3D plotting and data transformations.
+- `libqr.so`: Shared library 
+- `PCA_via_SVD.ipynb`: Demonstration of PCA on synthetic 2D and real datasets and high-dimensional variance visualization.
+- `svd.ipynb`: Practical application of SVD for image processing and reconstruction  (to be published).
+- `utilities.py`: Helper functions, featuring visualizations and computation.
 
 ---
 
