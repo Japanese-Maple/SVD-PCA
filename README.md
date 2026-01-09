@@ -26,7 +26,7 @@ This project provides a high-performance implementation of **Single Value Decomp
 ## Visualizations
 
 ### 1. Principal Component Projections
-Here we show how the algorithm identifies the axes of maximum variance in a synthetic dataset.
+Here I show how the algorithm identifies the axes of maximum variance in a synthetic dataset.
 ![Principal Component Projections](SVD_visual_2D.png)
 
 ### 2. SVD-Based Image Reconstruction
